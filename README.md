@@ -2,7 +2,7 @@
 
 Work with Harvard's CTO and the former Deputy CTO of the United States to create an open platform where Harvard students and researchers can discover and access data about the University!
 
-This portal will be featured on the main Harvard website , and could feature everything from dining menus, to shuttle schedules, to the course catalog.  Hackers and data lovers welcome! 
+This portal will be featured on the main Harvard website, and could feature everything from dining menus to shuttle schedules to the course catalog.  Hackers and data lovers welcome! 
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ Intro meeting coming soon -- [sign up for the team](https://docs.google.com/a/co
 * **Library cloud/Hollis (Presto)**
 * **Harvard art museums**
 * LabStat
-* Harvard 990 (nonprofit arms)
+* Harvard 990 (public nonprofit tax returns to the IRS)
 * Allston expansiont
 * [CS50 Courses API](https://manual.cs50.net/api/courses/)
 * [CS50 Food API](https://manual.cs50.net/api/food/)
